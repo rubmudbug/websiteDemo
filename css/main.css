@@ -92,8 +92,15 @@ body {
     line-height: 1;
     letter-spacing: -1px;
 }
-
-
+.text-muted{
+    font-size: 30px;
+    position: absolute;
+    right: 40%;
+}
+.lead{
+    position: absolute;
+    bottom: 30%;
+}
 /* RESPONSIVE CSS
 -------------------------------------------------- */
 
