@@ -77,7 +77,9 @@ body {
     margin-right: 10px;
     margin-left: 10px;
 }
-
+.marketing{
+    margin-top: 20px;
+}
 
 /* Featurettes
 ------------------------- */
@@ -95,7 +97,8 @@ body {
 .text-muted{
     font-size: 30px;
     position: absolute;
-    right: 40%;
+    right: 20%;
+    bottom: 15%;
 }
 .lead{
     position: absolute;
@@ -117,7 +120,6 @@ body {
         padding-right: 0;
         padding-left: 0;
     }
-
     /* The navbar becomes detached from the top, so we round the corners */
     .navbar-wrapper .navbar {
         border-radius: 4px;
